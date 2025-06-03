@@ -1,5 +1,5 @@
 body {
-  font-family: "Josefin Sans",  sans-serif;
+  font-family:,"Arial", "Meiryo", sans-serif; 
      text-align: center;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 h1{
-font-family: "Arial", "Meiryo", sans-serif;
+font-family: "Josefin Sans", sans-serif;
 font-size: 2.0rem;
    letter-spacing: 1.2em;
   text-shadow: 2px 2px 4px gray;
@@ -22,11 +22,7 @@ font-size: 2.0rem;
 html{
     font-size: 20px;
 }
-.google-fonts {
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Noto+Sans+JP&display=swap" rel="stylesheet">
-}
+
 #basic >p{
    font-weight: bold;
 }
